@@ -11,7 +11,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/placeholder.png "Model MSE loss"
+[image1]: ./examples/MSE_loss.png "Model MSE loss"
 
 ## Rubric Points
 
